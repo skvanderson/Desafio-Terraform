@@ -2,8 +2,6 @@
 
 Este projeto visa capacitá-lo a criar e gerenciar sua infraestrutura na nuvem AWS de forma automatizada, utilizando o poder do Terraform. Prepare-se para uma jornada prática na Infraestrutura como Código!
 
-Para sua conveniência, este guia está disponível em [formato PDF](docs/README.pdf) e [formato HTML](docs/README.html), ideal para consulta offline.
-
 ## Sumário
 
 -   [Prepare o Terreno](#prepare-o-terreno)
