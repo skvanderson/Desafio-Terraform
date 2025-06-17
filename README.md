@@ -26,9 +26,6 @@ Vamos provisionar sua infraestrutura! 🥳
 1.  **Obtenha o Código:**
     Clone o repositório ou baixe o ZIP.
 
-    > [!TIP]
-    > Prefere GitHub? Use `https://github.com/seu-repositório.git`.
-
     ```bash
     git clone https://github.com/skvanderson/Desafio-Terraform
     cd iac-com-terraform-e-aws
