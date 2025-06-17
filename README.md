@@ -31,9 +31,6 @@ Vamos provisionar sua infraestrutura! 🥳
     cd iac-com-terraform-e-aws
     ```
 
-    > [!NOTE]
-    > Sem Git? [Baixe o ZIP](https://github.com/skvanderson/Desafio-Terraform/-/archive/main/Desafio-Terraform.zip) e descompacte.
-
 2.  **Abra no VS Code:**
     Navegue até a pasta do projeto e abra-o:
 
